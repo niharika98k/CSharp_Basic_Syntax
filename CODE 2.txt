@@ -1,0 +1,49 @@
+// Online C# Editor for free
+// Write, Edit and Run your C# code using C# Online Compiler
+
+using System;
+
+public class pearson
+{
+    public string Name{
+        get;set;
+    } 
+    private int age;
+    public int Age{
+        get{return age;}
+        set{
+            if(value>0)
+            {
+            age=value;
+                
+            }
+            else
+            {
+                throw new ArgumentException("age cannot be negative");
+        }
+    }
+    }
+        
+    
+    
+
+    public static void Main()
+    {
+        Console.WriteLine("enter the name");
+        string name=Console.ReadLine();
+        Console.WriteLine("enter the age");
+        int age =int.Parse(Console.ReadLine());
+        pearson p =new pearson();
+        p.Name=name;
+        try{
+            p.Age=age;
+        }
+        catch(Exception e)
+        {
+            Console.WriteLine($"error");
+            return;
+            }
+            Console.WriteLine($"Name:{p.Name} Age:{p.Age}");
+        }
+        
+    }
