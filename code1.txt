@@ -1,0 +1,29 @@
+using System;
+
+public class HelloWorld
+{
+    public static void Main(string[] args)
+    {
+        
+        const string username="Alice";
+        const  string password="Wonderland123";
+        Console.WriteLine("enter the name ");
+      string name=Console.ReadLine();
+       if (name==""){
+       throw new Exception("passsword cant be empty");}
+       Console.WriteLine("enter password");
+       string pw=Console.ReadLine();
+       if(pw==""){
+           throw new Exception(" password can be empty");
+           
+       }
+       if(username==name && password==pw)
+       {
+           Console.WriteLine($"welcome {username} succesfully login ");
+       }else
+       {
+           Console.WriteLine("Please check your username and password " );
+       }
+    }
+}
+
