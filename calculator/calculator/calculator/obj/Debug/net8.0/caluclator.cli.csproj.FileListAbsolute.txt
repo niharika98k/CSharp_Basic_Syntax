@@ -1,0 +1,4 @@
+C:\Users\SreekurmamN\source\repos\calculator\calculator\obj\Debug\net8.0\caluclator.cli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SreekurmamN\source\repos\calculator\calculator\obj\Debug\net8.0\caluclator.cli.AssemblyInfoInputs.cache
+C:\Users\SreekurmamN\source\repos\calculator\calculator\obj\Debug\net8.0\caluclator.cli.AssemblyInfo.cs
+C:\Users\SreekurmamN\source\repos\calculator\calculator\obj\Debug\net8.0\caluclator.cli.csproj.CoreCompileInputs.cache

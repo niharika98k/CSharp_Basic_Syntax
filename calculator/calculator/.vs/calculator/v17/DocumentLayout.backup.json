@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SreekurmamN\\source\\repos\\calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE59F5A1-DA74-4396-9284-684C5F44AC55}|calculator\\calculator.csproj|c:\\users\\sreekurmamn\\source\\repos\\calculator\\calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE59F5A1-DA74-4396-9284-684C5F44AC55}|calculator\\calculator.csproj|solutionrelative:calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14AE670D-C0BE-46B9-A8AB-7A3A45DFFE37}|calculator.core\\calculator.core.csproj|c:\\users\\sreekurmamn\\source\\repos\\calculator\\calculator.core\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14AE670D-C0BE-46B9-A8AB-7A3A45DFFE37}|calculator.core\\calculator.core.csproj|solutionrelative:calculator.core\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F50BAF-6857-4671-A775-87345EEFF104}|calculator.tests\\calculator.tests.csproj|c:\\users\\sreekurmamn\\source\\repos\\calculator\\calculator.tests\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F50BAF-6857-4671-A775-87345EEFF104}|calculator.tests\\calculator.tests.csproj|solutionrelative:calculator.tests\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "calculatortests.cs",
+              "DocumentMoniker": "C:\\Users\\SreekurmamN\\source\\repos\\calculator\\calculator.tests\\calculatortests.cs",
+              "RelativeDocumentMoniker": "calculator.tests\\calculatortests.cs",
+              "ToolTip": "C:\\Users\\SreekurmamN\\source\\repos\\calculator\\calculator.tests\\calculatortests.cs",
+              "RelativeToolTip": "calculator.tests\\calculatortests.cs",
+              "ViewState": "AgIAACYAAAAAyMzMzMz4vzoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T01:12:10.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "calculator.cs",
+              "DocumentMoniker": "C:\\Users\\SreekurmamN\\source\\repos\\calculator\\calculator.core\\calculator.cs",
+              "RelativeDocumentMoniker": "calculator.core\\calculator.cs",
+              "ToolTip": "C:\\Users\\SreekurmamN\\source\\repos\\calculator\\calculator.core\\calculator.cs",
+              "RelativeToolTip": "calculator.core\\calculator.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwBwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T00:56:04.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SreekurmamN\\source\\repos\\calculator\\calculator\\Program.cs",
+              "RelativeDocumentMoniker": "calculator\\Program.cs",
+              "ToolTip": "C:\\Users\\SreekurmamN\\source\\repos\\calculator\\calculator\\Program.cs",
+              "RelativeToolTip": "calculator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T00:52:18.742Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

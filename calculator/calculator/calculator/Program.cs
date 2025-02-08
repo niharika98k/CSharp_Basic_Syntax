@@ -1,0 +1,10 @@
+﻿using Calculator.Core;
+Console.WriteLine("Hello, World!");
+int sum = Calculator.Core.Calculator.Add(1, 2);
+Console.WriteLine($"Sum of two numbers is {sum}");
+double result = Calculator.Core.Calculator.Divide(2, 1);
+Console.WriteLine($"Result is {result}");
+int sub = Calculator.Core.Calculator.Subtract(2, 1);
+Console.WriteLine($"Result is {sub}");
+int mult = Calculator.Core.Calculator.Multiply(4, 5);
+Console.WriteLine($"Result is {mult}");

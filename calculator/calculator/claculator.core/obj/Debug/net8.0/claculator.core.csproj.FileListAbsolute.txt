@@ -1,0 +1,11 @@
+C:\Users\SreekurmamN\source\repos\calculator\claculator.core\bin\Debug\net8.0\claculator.core.deps.json
+C:\Users\SreekurmamN\source\repos\calculator\claculator.core\bin\Debug\net8.0\claculator.core.dll
+C:\Users\SreekurmamN\source\repos\calculator\claculator.core\bin\Debug\net8.0\claculator.core.pdb
+C:\Users\SreekurmamN\source\repos\calculator\claculator.core\obj\Debug\net8.0\claculator.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SreekurmamN\source\repos\calculator\claculator.core\obj\Debug\net8.0\claculator.core.AssemblyInfoInputs.cache
+C:\Users\SreekurmamN\source\repos\calculator\claculator.core\obj\Debug\net8.0\claculator.core.AssemblyInfo.cs
+C:\Users\SreekurmamN\source\repos\calculator\claculator.core\obj\Debug\net8.0\claculator.core.csproj.CoreCompileInputs.cache
+C:\Users\SreekurmamN\source\repos\calculator\claculator.core\obj\Debug\net8.0\claculator.core.dll
+C:\Users\SreekurmamN\source\repos\calculator\claculator.core\obj\Debug\net8.0\refint\claculator.core.dll
+C:\Users\SreekurmamN\source\repos\calculator\claculator.core\obj\Debug\net8.0\claculator.core.pdb
+C:\Users\SreekurmamN\source\repos\calculator\claculator.core\obj\Debug\net8.0\ref\claculator.core.dll
